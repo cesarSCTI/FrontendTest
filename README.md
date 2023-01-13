@@ -9,3 +9,6 @@ Responsive landing page, using HTML, CSS and JAVASCRIPT
 ## CSS
 > All the css was created by myself
 
+## Fonts 
+> Montserrat | Works with Google Fonts
+> SF NS Display | Was declared in fonts.css
