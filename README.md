@@ -11,4 +11,5 @@ Responsive landing page, using HTML, CSS and JAVASCRIPT
 
 ## Fonts 
 > Montserrat | Works with Google Fonts
+##
 > SF NS Display | Was declared in fonts.css
