@@ -274,7 +274,7 @@ input::placeholder{
         background-size: 100%;
         background-repeat: no-repeat;
         background: #f8f8f8;
-        height: auto;
+        height: 105vh;
     }
     .contentSection2 {
         padding: 20px;
@@ -343,7 +343,7 @@ input::placeholder{
         background-size: 100%;
         background-repeat: no-repeat;
         background: #f8f8f8;
-        height: auto;
+        height: 90vh;
     }
     .contentSection2 {
         padding: 80px;
